@@ -13,6 +13,10 @@ This folder contains experimental configurations for Tracks A–C as described i
 - `scripts/`: Evaluation scripts for consensus rounds and JS divergence  
   └── e.g., `evaluation.py`
 
+# DesignAdvisor Evaluation Scripts
+This folder contains prompt templates, deliberation logs, and analysis scripts corresponding to Appendix D in our paper. Run `scripts/evaluation.py` to reproduce the JS divergence metric reported in Section 5.
+
+
 ## OpenAI API Configuration
 
 - Version: `2024-12`  
